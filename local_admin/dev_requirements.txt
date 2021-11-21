@@ -1,0 +1,9 @@
+Pillow
+tqdm
+pandas
+pytest
+csvs-to-sqlite
+typer
+pint
+ipython
+jupyter
